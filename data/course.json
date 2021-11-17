@@ -1,0 +1,26 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "426c48d9-7e87-828d-fa4e-f537dcda9352"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Fencing",
+  "course_description": "This course is intended to provide students with the fundamentals of fencing, including footwork, bladework, bouting and refereeing. It will allow students to develop the ability to analyze a fencing bout, and promotes creativity in applying acquired skills in a fencing bout.\n",
+  "department_numbers": [
+    "PE"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "PE.740",
+  "learning_resource_types": [
+    "Demonstration Videos"
+  ],
+  "title": "Course Metadata"
+}
